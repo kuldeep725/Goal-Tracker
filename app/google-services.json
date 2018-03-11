@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "59806278619",
+    "firebase_url": "https://goaltracker-93313.firebaseio.com",
+    "project_id": "goaltracker-93313",
+    "storage_bucket": "goaltracker-93313.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59806278619:android:c436a1ab77c34153",
+        "android_client_info": {
+          "package_name": "com.iam725.kunal.goaltracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59806278619-icjt2csjsbplcnla0s3ebdnmsdc45168.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2a4ebxAGF34T8GtBHi5xz36aD_bMfQ3Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
